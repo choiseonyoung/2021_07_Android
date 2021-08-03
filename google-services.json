@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "718145771598",
+    "project_id": "hello-android-d3db7",
+    "storage_bucket": "hello-android-d3db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718145771598:android:bd7363e9a0fa99b0830b1f",
+        "android_client_info": {
+          "package_name": "com.bviibb.chatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718145771598-djji0euvqs6jaaqj4ir61boo329v3b27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIEufhvIZ0KON5F6xZfyEtFGFLySUleo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718145771598-djji0euvqs6jaaqj4ir61boo329v3b27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718145771598:android:809f1d6c0f4e0b5a830b1f",
+        "android_client_info": {
+          "package_name": "com.choiseonyoung.hellochatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718145771598-djji0euvqs6jaaqj4ir61boo329v3b27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIEufhvIZ0KON5F6xZfyEtFGFLySUleo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718145771598-djji0euvqs6jaaqj4ir61boo329v3b27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
