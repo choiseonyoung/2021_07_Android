@@ -19,4 +19,12 @@ public class Chatt {
     public void setMsg(String msg) {
         this.msg = msg;
     }
+
+    @Override
+    public String toString() {
+        return "Chatt{" +
+                "name='" + name + '\'' +
+                ", msg='" + msg + '\'' +
+                '}';
+    }
 }
