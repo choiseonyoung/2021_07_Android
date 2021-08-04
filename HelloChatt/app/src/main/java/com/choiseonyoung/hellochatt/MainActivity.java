@@ -50,6 +50,14 @@ public class MainActivity extends AppCompatActivity {
          */
         setContentView(R.layout.activity_main);
 
+        txt_msg = findViewById(R.id.txt_msg);
+        btn_send = findViewById(R.id.btn_send);
+
+        chatt_list_view = findViewById(R.id.chatt_list_view);
+
+        // 0. 보여줄 데이터 객체 생성
+        chattList = new ArrayList<Chatt>();
+
         // 1. Adapter 객체 생성
         // Adapter 객체를 생성할 때 보여줄 데이터 객체를
         // 생성자 매개변수로 주입해 주어야 한다
@@ -76,13 +84,9 @@ public class MainActivity extends AppCompatActivity {
         // 이벤트 핸들러 연결
         dbRef.addChildEventListener(childEventListener);
 
-        txt_msg = findViewById(R.id.txt_msg);
-        btn_send = findViewById(R.id.btn_send);
 
-        chatt_list_view = findViewById(R.id.chatt_list_view);
         
-        // 0. 보여줄 데이터 객체 생성
-        chattList = new ArrayList<Chatt>();
+
 
         // 테스트를 위한 가상의 데이터 생성
         /*
