@@ -5,8 +5,11 @@
       <map>
         <entry key="..\:/bizworks/AndProject/CaCao/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/bizworks/AndProject/CaCao/app/src/main/res/layout/chatt_item.xml" value="0.16995947315096252" />
-        <entry key="..\:/bizworks/android/CaCao/app/src/main/res/layout/activity_main.xml" value="0.36770833333333336" />
-        <entry key="..\:/bizworks/android/CaCao/app/src/main/res/layout/chatt_item.xml" value="0.36770833333333336" />
+        <entry key="..\:/bizworks/android/CaCao/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/bizworks/android/CaCao/app/src/main/res/layout/chatt_item.xml" value="0.18387909319899245" />
+        <entry key="..\:/bizworks/android/CaCao/app/src/main/res/layout/settings_activity.xml" value="0.15625" />
+        <entry key="..\:/bizworks/android/CaCao/app/src/main/res/menu/main_tool_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/bizworks/android/CaCao/app/src/main/res/xml/root_preferences.xml" value="0.1" />
       </map>
     </option>
   </component>

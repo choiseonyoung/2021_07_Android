@@ -3,24 +3,22 @@
     android:id="@+id/msg_linear"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:gravity="start"
     android:orientation="vertical">
 
     <TextView
         android:id="@+id/item_name"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:textSize="15sp"
         android:textStyle="bold"
-        android:textColor="#F6DC8D"
-        android:text="방가"/>
+        android:textColor="#F6DC8D"/>
 
     <TextView
         android:id="@+id/item_msg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@android:drawable/editbox_background"
-
-        android:text="반갑습니다"
         android:textSize="25sp" />
 
 </LinearLayout>
