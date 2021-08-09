@@ -2,6 +2,7 @@ package com.choiseonyoung.library;
 
 import android.os.Bundle;
 
+import com.choiseonyoung.library.service.NaverAPIServiceV1;
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -63,6 +64,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
+
+//                NaverAPIServiceV1 naver = new NaverAPIServiceV1();
+//                naver.getNaverBooks("자바");
             }
         });
     }
