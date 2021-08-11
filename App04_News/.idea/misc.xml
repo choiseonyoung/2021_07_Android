@@ -3,9 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/bizworks/android2/App_03_Library/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
-        <entry key="..\:/bizworks/android2/App_03_Library/app/src/main/res/layout/book_item_view.xml" value="0.1" />
-        <entry key="..\:/bizworks/android2/App_03_Library/app/src/main/res/menu/main_toolbar_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/bizworks/android2/App04_News/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/bizworks/android2/App04_News/app/src/main/res/layout/news_item_view.xml" value="0.11510416666666666" />
       </map>
     </option>
   </component>
