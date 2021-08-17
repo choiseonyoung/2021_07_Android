@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_main, menu);
 
         /*
-        ActionBar에 구현된 ㄱ머색창을 활성화하기 위한 코드
+        ActionBar에 구현된 검색창을 활성화하기 위한 코드
         android.wedget.SearchView를 사용하여 객체 생성
          */
         SearchView searchView = (SearchView) menu.findItem(R.id.app_bar_search).getActionView();
